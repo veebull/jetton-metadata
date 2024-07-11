@@ -1,0 +1,7 @@
+{
+    name: 'Multi Fulti',
+    description: 'Multi Fulti Ton Jetton',
+    symbol: 'MF',
+    decimals: 0,
+    image: 'https://img.freepik.com/free-photo/night-sky-glows-with-iridescent-deep-space-generative-ai_188544-11285.jpg?t=st=1720712329~exp=1720715929~hmac=50fe181f0a85f1e68bd3fab2c07d2893155b1da5a110dedb0292a5c5776cd4f9&w=2000',
+}
